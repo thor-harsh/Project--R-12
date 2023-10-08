@@ -14,7 +14,7 @@ Number-the number of vertebrae involved
 
 Start-the number of the first (topmost) vertebra operated on.
 
-We will be working on predicting whether the given child is having Kyphosis or not?<br><br/>
+We will be working on predicting whether the given child is having Kyphosis or not?<br>
 
 </table>
 
